@@ -203,3 +203,9 @@ The backend returns:
 - Strengths
 - Improvement focus
 - Recommendation
+
+## Demo Video
+
+[![Watch the Demo](./assets/demo-preview.gif)](https://drive.google.com/file/d/1yWQlGlz4YTLAiEvwfrhGkbOJIT4Aq08U/view?usp=sharing)
+
+*Click the animated preview above to watch the full end-to-end demo on Google Drive.*
