@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI-powered role-based candidate screening system
 
 A full-stack, AI-powered role-based candidate screening system that transforms a candidate’s resume and selected role into a personalized, timed, 30-question multiple-choice test in real time.
