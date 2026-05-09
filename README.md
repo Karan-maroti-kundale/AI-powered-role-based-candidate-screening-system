@@ -206,6 +206,6 @@ The backend returns:
 
 ## Demo Video
 
-[![Watch the Demo](./assets/demo-preview.gif)](https://drive.google.com/file/d/1yWQlGlz4YTLAiEvwfrhGkbOJIT4Aq08U/view?usp=sharing)
+[🎬 Watch the Full End-to-End System Demo (Google Drive)](https://drive.google.com/file/d/1yWQlGlz4YTLAiEvwfrhGkbOJIT4Aq08U/view?usp=sharing)
 
-*Click the animated preview above to watch the full end-to-end demo on Google Drive.*
+*This video demonstrates the complete workflow: resume upload, dynamic 30-MCQ generation, the cheat-proof timer, auto-grading, and the final AI evaluation report.*
